@@ -4,6 +4,12 @@ Show users the reading time, number of words and number of characters contained 
 
 This plugin has only been tested with Wordpress 6.1.1 version.
 
+### Previews
+
+![](preview-pwcp.JPG)
+
+![](preview2-pwcp.JPG)
+
 ## How it works
 
 * Select the position where you want to display the information. Above or below the post content.
